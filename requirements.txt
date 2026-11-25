@@ -1,0 +1,6 @@
+streamlit
+openai-whisper
+google-genai
+python-docx
+reportlab
+python-pptx
